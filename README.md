@@ -13,3 +13,5 @@
 ![exercicio_F](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/74207c33-384c-4b40-8921-5e09db5abfb6)
 # Exercicio G
 ![exercicio_G](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/6521db34-6633-4a2b-bb56-798a857920d3)
+# Exercicio H
+![exercicio_H](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/a2d6ecb1-93f5-4b22-ae30-baa394956a8c)
