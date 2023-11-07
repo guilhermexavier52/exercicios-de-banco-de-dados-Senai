@@ -1,4 +1,4 @@
-# exercicios-de-banco-de-dados-Senai!
+# exercicios-de-banco-de-dados-Senai Modelo Logico!
 # Exercicio A
 ![exercicio_A](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/c587cf0a-a4a4-4d77-a686-edeab4208aa7)
 # Exercicio B
