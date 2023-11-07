@@ -1,6 +1,6 @@
 # exercicios-de-banco-de-dados-Senai!
 
-[exercicio_A](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/c587cf0a-a4a4-4d77-a686-edeab4208aa7)
+!Exercicio_A[exercicio_A](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/c587cf0a-a4a4-4d77-a686-edeab4208aa7)
 
 [exercicio_B](https://github.com/guilhermexavier52/exercicios-de-banco-de-dados-Senai/assets/125416199/66f7470f-d37c-4555-a5bb-9ffd24d60337)
 
